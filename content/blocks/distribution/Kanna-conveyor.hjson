@@ -15,7 +15,7 @@ loadEffect: {
   lenTo: 0
   strokeFrom: 0.5
   strokeTo: 0.5
-  colorTo: FF00FF
+  colorTo: 00BFFF
 }
 unloadEffect: {
   type: ParticleEffect
@@ -26,7 +26,7 @@ unloadEffect: {
   lenTo: 0
   strokeFrom: 0.5
   strokeTo: 0.5
-  colorTo: FF00FF
+  colorTo: 00BFFF
 }
 requirements: [
   metaglass/1

@@ -3,7 +3,7 @@ description: Shoot enemy with some Kanna. Wow !
 type: ItemTurret
 targetAir: true
 targetGround: true
-health: 12000
+health: 725
 size: 3
 inaccuracy: 12
 reloadTime: 10
@@ -40,4 +40,3 @@ requirements: [
   Kanna/50
 ]
 category: turret
-reserch: copper

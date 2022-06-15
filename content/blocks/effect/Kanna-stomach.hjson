@@ -1,8 +1,8 @@
 name: Kanna's Stomach
 description: Store items in the Kanna's stomach
 type: StorageBlock
-size: 4
-health: 1000
+size: 3
+health: 675
 hasItems: true
 itemCapacity: 2500
 requirements: [
