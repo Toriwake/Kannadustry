@@ -1,5 +1,5 @@
 name: Kanna Launcher
-description: Shoot enemy with some Kanna
+description: Shoot enemy with some Kanna. Wow !
 type: ItemTurret
 targetAir: true
 targetGround: true
