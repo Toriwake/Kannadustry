@@ -1,0 +1,25 @@
+name: Kanna Maker
+description: Make Kanna with sand and titanium. Wait, how do you make Kanna with sand and titanium ?
+type: genericCrafter
+craftTime: 20
+size: 2
+hasPower: true
+hasLiquids: false
+hasitems: true
+itemCapacity: 20
+consumes: {
+  items: {
+    items: [
+      sand/1
+      titanium/1
+    ]
+  }
+  power: 0.5
+}
+requirements: [
+  copper/35
+  titanium/25
+  graphite/20
+]
+category: crafting
+outputItem: Kanna/1

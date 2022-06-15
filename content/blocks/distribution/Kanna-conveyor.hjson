@@ -1,0 +1,36 @@
+name: Kanna Conveyor
+description: Does it just Kanna that is printed on the conveyor, or it's Kanna herself into the conveyor ? Nobody know
+type: StackConveyor
+health: 60
+itemCapacity: 20
+speed: 0.083333
+recharge: 3
+research: titanium-conveyor
+loadEffect: {
+  type: ParticleEffect
+  line: true
+  lifetime: 30
+  length: 8
+  lenFrom: 2
+  lenTo: 0
+  strokeFrom: 0.5
+  strokeTo: 0.5
+  colorTo: FF00FF
+}
+unloadEffect: {
+  type: ParticleEffect
+  line: true
+  lifetime: 30
+  length: 8
+  lenFrom: 2
+  lenTo: 0
+  strokeFrom: 0.5
+  strokeTo: 0.5
+  colorTo: FF00FF
+}
+requirements: [
+  metaglass/1
+  graphite/1
+  plastanium/1
+  Kanna/1
+]

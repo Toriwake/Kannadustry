@@ -1,0 +1,12 @@
+name: Kanna's Stomach
+description: Store items in the Kanna's stomach
+type: StorageBlock
+size: 4
+health: 1000
+hasItems: true
+itemCapacity: 2500
+requirements: [
+  titanium/350
+  Kanna/100
+]
+category: effect

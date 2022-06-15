@@ -1,0 +1,8 @@
+name: "Kannadustry"
+displayName: "Kannadustry"
+author: Kanna
+description: "Kanna mod"
+version: "1.0"
+minGameVersion: "135"
+dependencies: [ ]
+hidden: false
