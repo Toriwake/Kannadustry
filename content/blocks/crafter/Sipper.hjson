@@ -1,4 +1,4 @@
-name: Drinker
+name: Sipper
 description: Give Kanna some water
 type: genericCrafter
 craftTime: 20
@@ -7,7 +7,7 @@ hasPower: true
 hasLiquids: true
 hasitems: true
 itemCapacity: 20
-liquidscapacity: 50
+liquidscapacity: 30
 consumes: {
   items: {
     items: [
@@ -22,9 +22,9 @@ consumes: {
     }
 }
 requirements: [
-  copper/40
+  copper/50
   titanium/40
-  Kanna/30
+  Kanna/50
   metaglass/30
 ]
 category: crafting
