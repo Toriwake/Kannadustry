@@ -4,7 +4,7 @@ type: ItemTurret
 targetAir: true
 targetGround: true
 health: 725
-size: 3
+size: 2
 inaccuracy: 12
 reloadTime: 10
 shots: 3
